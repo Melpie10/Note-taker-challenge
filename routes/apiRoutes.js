@@ -3,7 +3,7 @@ const fs = require('fs');
 // const { notes } = require("../db/db.json");
 // const { createNewNote, deleteNote } = require("../lib/notes");
 const path = require('path');
-//const uniqueID = require('uniqid');
+// const uniqueID = require('uniqid');
 
 // get
 router.get('/notes', (req, res) => {
@@ -50,16 +50,16 @@ module.exports = router;
 // const router = require('express').Router();
 // const { notes } = require('../db/db.json');
 // const { createNewNote, deleteNote } = require('../lib/notes');
-// const path = require('path');
 
-// // get notes
-// // router.get('/notes', (req, res) => {
-// //     if (notes) {
-// //         res.send(notes);
-// //     } else {
-// //         res.json("goodbye mel");
-// //     }
-// // }); 
+
+// //get notes
+// router.get('/notes', (req, res) => {
+//     if (notes) {
+//         res.send(notes);
+//     } else {
+//         res.json("goodbye mel");
+//     }
+// }); 
 
 // router.get('/notes', (req, res) => {
 //     res.sendFile(path.join(__dirname, '../public/notes.html'))
