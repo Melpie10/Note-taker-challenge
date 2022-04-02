@@ -3,7 +3,7 @@ const fs = require('fs');
 // const { notes } = require("../db/db.json");
 // const { createNewNote, deleteNote } = require("../lib/notes");
 const path = require('path');
-// const uniqueID = require('uniqid');
+const uniqueID = require('uniqid');
 
 // get
 router.get('/notes', (req, res) => {
