@@ -28,10 +28,14 @@ https://github.com/Melpie10/Note-taker-challenge
  ## Visuals
 
 Main page: 
+![Screen Shot 2022-04-01 at 9 11 46 PM](https://user-images.githubusercontent.com/92319522/161359974-fb8c5c2b-5052-41bb-9a31-13d4453375aa.png)
 
-Adding a note: 
+Adding a note:
+![Screen Shot 2022-04-01 at 9 11 13 PM](https://user-images.githubusercontent.com/92319522/161359988-963b7820-8241-400f-845d-ef7e11a288ae.png)
+
 
 After note has been deleted: 
+![Screen Shot 2022-04-01 at 9 11 29 PM](https://user-images.githubusercontent.com/92319522/161359992-1d44628d-12e6-4701-862b-cb59e4e42181.png)
 
 
 ## Contributing
